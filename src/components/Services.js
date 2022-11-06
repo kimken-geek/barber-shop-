@@ -57,7 +57,7 @@ function Services() {
             </tr>
         </tbody>
         </Table>
-        <Container className='w-25'>
+        <Container className='w-50'>
             <Row>
                 <Col>
                 <p className='text-white'> Book an Appointment Today and Get a 25% discount on any service. We have offer 50% off for children, aged and veterans</p>
