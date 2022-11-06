@@ -1,7 +1,7 @@
 {
   "main.css": "/barber-shop-/static/css/main.8dc6d2b6.chunk.css",
-  "main.js": "/barber-shop-/static/js/main.923c8809.chunk.js",
-  "main.js.map": "/barber-shop-/static/js/main.923c8809.chunk.js.map",
+  "main.js": "/barber-shop-/static/js/main.c80ffafe.chunk.js",
+  "main.js.map": "/barber-shop-/static/js/main.c80ffafe.chunk.js.map",
   "static/js/1.599995f5.chunk.js": "/barber-shop-/static/js/1.599995f5.chunk.js",
   "static/js/1.599995f5.chunk.js.map": "/barber-shop-/static/js/1.599995f5.chunk.js.map",
   "static/css/2.5e0ed670.chunk.css": "/barber-shop-/static/css/2.5e0ed670.chunk.css",
@@ -10,9 +10,9 @@
   "runtime~main.js": "/barber-shop-/static/js/runtime~main.de49b1c2.js",
   "runtime~main.js.map": "/barber-shop-/static/js/runtime~main.de49b1c2.js.map",
   "static/media/Clogo.png": "/barber-shop-/static/media/Clogo.f0ef3a57.png",
-  "static/css/2.5e0ed670.chunk.css.map": "/barber-shop-/static/css/2.5e0ed670.chunk.css.map",
   "static/css/main.8dc6d2b6.chunk.css.map": "/barber-shop-/static/css/main.8dc6d2b6.chunk.css.map",
+  "static/css/2.5e0ed670.chunk.css.map": "/barber-shop-/static/css/2.5e0ed670.chunk.css.map",
   "index.html": "/barber-shop-/index.html",
-  "precache-manifest.aa79e4ea7bd50127f24c60b0b3915272.js": "/barber-shop-/precache-manifest.aa79e4ea7bd50127f24c60b0b3915272.js",
+  "precache-manifest.0fd9b58aeb905b4ddb956b9647e03479.js": "/barber-shop-/precache-manifest.0fd9b58aeb905b4ddb956b9647e03479.js",
   "service-worker.js": "/barber-shop-/service-worker.js"
 }

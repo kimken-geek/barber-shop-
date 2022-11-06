@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "923c8809efc8ce0fce02",
+    "revision": "c80ffafee717bc2aca7a",
     "url": "/barber-shop-/static/css/main.8dc6d2b6.chunk.css"
   },
   {
-    "revision": "923c8809efc8ce0fce02",
-    "url": "/barber-shop-/static/js/main.923c8809.chunk.js"
+    "revision": "c80ffafee717bc2aca7a",
+    "url": "/barber-shop-/static/js/main.c80ffafe.chunk.js"
   },
   {
     "revision": "599995f5c63098e6b233",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/barber-shop-/static/media/Clogo.f0ef3a57.png"
   },
   {
-    "revision": "af09c82de181d3934462550e0e70ee65",
+    "revision": "354cf83afd8d3be24f189cd29bfd5744",
     "url": "/barber-shop-/index.html"
   }
 ];
